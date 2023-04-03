@@ -1,8 +1,8 @@
 /*
 Item name: Menuzord - Responsive Megamenu
-Item Url: http://codecanyon.net/item/menuzord-responsive-megamenu/8536398
+Item Url: https://codecanyon.net/item/menuzord-responsive-megamenu/8536398
 Author: marcoarib - marco.arib@gmail.com
-License: http://codecanyon.net/licenses
+License: https://codecanyon.net/licenses
 */
 
 (function($){
@@ -255,7 +255,7 @@ License: http://codecanyon.net/licenses
 
 /**
 * jquery.scrollTo
-* Copyright (c) 2007-2014 Ariel Flesler - aflesler<a>gmail<d>com | http://flesler.blogspot.com
+* Copyright (c) 2007-2014 Ariel Flesler - aflesler<a>gmail<d>com | https://flesler.blogspot.com
 * Licensed under MIT
 * @author Ariel Flesler
 * @version 1.4.13
